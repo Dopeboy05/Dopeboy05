@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Supriya S Ranjan
 
-<!--
-**Dopeboy05/Dopeboy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science Engineering student at **Gurukul Kangri Vishwavidyalaya**, graduating in **2026**. I’m passionate about coding, building projects, and constantly learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE @ Gurukul Kangri Vishwavidyalaya (2022–2026)
+- 🌱 Currently learning: Web development | DSA | Python
+- 🔭 Exploring: Open source contributions & personal projects
+- 💬 Ask me about: Python, HTML/CSS, JavaScript
+- 📫 Reach me at: [Your email or LinkedIn URL here]
+- 🧠 Fun fact: I enjoy turning coffee into code ☕💻
+
+## 🛠️ Tech Stack
+
+![Tech Stack](https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,mongodb,git,github)
+
+## 📈 GitHub Stats
+
+![Supriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🔗 Featured Projects
+
+- 💡 *Coming soon…*
+
+## 📝 Blog & Articles
+
+- ✍️ *Coming soon…*
+
+Thanks for visiting! Feel free to connect and collaborate 😊
