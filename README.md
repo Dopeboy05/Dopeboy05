@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at **Gu
 - 🎓 B.Tech CSE @ Gurukul Kangri Vishwavidyalaya (2022–2026)
 - 🌱 Currently learning: Web development | HTML & CSS | Figma
 - 🔭 Exploring: Open source contributions & personal projects
-- 💬 Ask me about: HTML/CSS, JavaScript
+- 💬 Ask me about: HTML/CSS, JavaScript & Figma
 - 📫 Reach me at: https://github.com/DopeBoy05
 - 🧠 Fun fact: I enjoy turning coffee into code ☕💻
 
