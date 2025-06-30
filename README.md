@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at **Gu
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE @ Gurukul Kangri Vishwavidyalaya (2022–2026)
-- 🌱 Currently learning: Web development | DSA | Python
+- 🌱 Currently learning: Web development | HTML & CSS | Figma
 - 🔭 Exploring: Open source contributions & personal projects
-- 💬 Ask me about: Python, HTML/CSS, JavaScript
-- 📫 Reach me at: [Your email or LinkedIn URL here]
+- 💬 Ask me about: HTML/CSS, JavaScript
+- 📫 Reach me at: https://github.com/DopeBoy05
 - 🧠 Fun fact: I enjoy turning coffee into code ☕💻
 
 ## 🛠️ Tech Stack
