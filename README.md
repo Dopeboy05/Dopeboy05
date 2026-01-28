@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student at **Gu
 - 🌱 Currently learning: Web development | HTML & CSS | Figma
 - 🔭 Exploring: Open source contributions & personal projects
 - 💬 Ask me about: HTML/CSS, JavaScript & Figma
-- 📫 Reach me at: dode.junkie.5402@gmail.com
+- 📫 Reach me at: code.junkie.5402@gmail.com
 - 🧠 Fun fact: I enjoy turning coffee into code ☕💻
 
 ## 🛠️ Tech Stack
